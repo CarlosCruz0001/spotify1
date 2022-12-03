@@ -1,0 +1,111 @@
+html{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    margin: 0;
+}
+#mobile{
+    display: none;
+}
+#topo{
+    display: flex;
+    padding: 40px;
+    background: linear-gradient(to bottom,  #383838, rgb(0, 0, 0));
+}
+#playlist img{
+    width: 400px;
+}
+#text{
+    margin-top: 80px;
+    margin-left: 20px;
+    color: white;
+    width: 40%;
+    font-family: 'titulos';
+    letter-spacing: 2px;
+}
+#h1cb{
+    font-family:'fonte8';
+    letter-spacing: 2px;
+}
+#informações{
+    display: flex;
+    color: #635c5c;
+    font-size: 10px;
+}
+#informações h3{
+    margin-left: 1px;
+    font-family: 'fonte8';
+}
+#nome{
+    color: white;
+    font-family: 'fonte8';
+    padding: 0px 4px 0px 4px;
+}
+#follows{
+    margin-top: 350px;
+    text-align: right;
+    color: #635c5c;
+    width: 40%;
+}
+#follows h4{
+    margin-right: 20px;
+    font-family: 'fonte8';
+}
+#container1{
+    display: flex;
+}
+#pause{
+    width:50%;
+}
+#pause h2{
+    background-color: rgb(36, 169, 67);
+    border-radius: 40px;
+    text-align: center;
+}
+
+#mais{
+    margin: 15px;
+    width: 50%;
+}
+#mais img{
+    width: 40px;
+}
+#cabeçalho{
+    color: rgb(176, 176, 176);
+    letter-spacing: 4px;
+}
+.lista{
+    margin: -5px 60px 2px 60px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th{
+    padding: 5px;
+    border-bottom: 0.1px solid  rgb(176, 176, 176);
+    font-family: 'titulos';
+    text-align: left;
+}
+td{
+    font-size: 80%;
+    text-align: left;
+    padding: 10px;
+    border-bottom: 0.1px solid  rgb(176, 176, 176);
+    font-family: 'lista';
+}
+td:last-of-type{
+    text-align:right;
+ }
+ td:first-of-type{
+ text-align: right;
+ }
+
+#corpo{
+    color: white;
+}
+.heart img{
+    width: 30px;
+
+}

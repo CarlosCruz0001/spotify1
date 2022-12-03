@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'titulos';
+    src: url(..//fonts/titulos.ttf);
+}
+@font-face {
+    font-family: 'fonte8';
+    src: url(..//fonts/fonte8.ttf);
+}
+@font-face {
+    font-family: 'lista';
+    src: url(..//fonts/lista.ttf);
+}
+@font-face {
+    font-family: 'playlist';
+    src: url(..//fonts/playlist.ttf);
+}
